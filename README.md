@@ -122,7 +122,7 @@ Follow these steps to configure your environment, train the CNN model, and run e
 ### 1 · Clone the Repository
 Clone this repository to your local machine and navigate into the project root:
 ```bash
-git clone https://github.com/ChiranjibSaiChandanNath/Facial-Emotion-Recognization.git
+git clone https://github.com/chiranjib-sai-chandan-nath/Facial-Emotion-Recognization.git
 cd Facial-Emotion-Recognization
 ```
 
